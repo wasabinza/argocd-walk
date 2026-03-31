@@ -7,7 +7,7 @@ image:
 
 service:
   type: ClusterIP   # can be ClusterIP, NodePort, or LoadBalancer
-  port: 80
+  port: 8009
   # nodePort: 30080  # uncomment if using NodePort
 
 ui:
